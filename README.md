@@ -7,7 +7,7 @@
 - ASP .NET (Modelo MVC)
 - Entity Framework
 - Bando de Dados SQLite
-- 
+
  # Objetivo do Sistema
 O sistema funciona como uma ferramenta de gestão. permitindo adicionar novos funcionários ao banco de dados da empresa. Além de apresentar ao usuário as opções de atualizar, excluir e filtrar os funcionários de acordo com o nome. 
 Vantagens da aplicação:
